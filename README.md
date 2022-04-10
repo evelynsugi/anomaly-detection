@@ -1,1 +1,1 @@
-# anomaly-detection
+# 586-project

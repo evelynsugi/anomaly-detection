@@ -1,9 +1,8 @@
 import sys
-
 from logparser import Drain #parser: Drain
 
-input_dir = "raw_data/"  
-output_dir = "parsed_data/" 
+input_dir = "raw_data/"
+output_dir = "parsed_data/drain/"
 HDFS_data = "HDFS.log"
 HDFS_data_trainset = "HDFS_trainset.log"
 HDFS_data_testset = "HDFS_testset.log"

@@ -6,7 +6,7 @@ Group Members:
 
 ## Files
 - [EDA.ipynb](/docs/EDA.ipynb)
-- [Log Anomaly Detection Report.pdf](/docs/Log Anomaly Detection Report.pdf)
+- [log_anomaly_report.pdf](/docs/log_anomaly_report.pdf)
 
 
 ## 1. Raw Log Data (HDFS_1)
